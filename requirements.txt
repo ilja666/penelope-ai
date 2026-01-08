@@ -1,0 +1,11 @@
+anthropic
+openai
+pydantic
+pydantic-settings
+python-dotenv
+rich
+click
+httpx
+pyautogui
+pywin32
+

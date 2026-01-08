@@ -1,0 +1,7 @@
+To open Android Studio:
+
+1. Locate the Android Studio application on your computer. Depending on your operating system, it may be in your Applications folder, Start menu, or another location.
+2. Double-click the Android Studio icon to launch the application.
+3. If prompted, follow the on-screen instructions to complete the setup process.
+
+Once Android Studio is open, you can begin developing your Android app.
