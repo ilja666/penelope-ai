@@ -1,0 +1,3 @@
+[submodule "fara"]
+	path = fara
+	url = https://github.com/microsoft/fara.git
